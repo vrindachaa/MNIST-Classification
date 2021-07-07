@@ -1,5 +1,5 @@
 # MNIST Classification
- Classification of handwritten digits from the MNIST dataset using various data science methods.
+ Classification of handwritten digits from the MNIST dataset using various data science methods. A clean csv of training and test data of the MNIST dataset can be found here: https://pjreddie.com/projects/mnist-in-csv/ 
  
  
  Directory: 
